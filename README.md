@@ -20,10 +20,8 @@ Este projeto faz parte do meu portfólio e foi desenvolvido com o objetivo de **
 ## 🚀 Status do Projeto:
 O *Escalix* está atualmente na **versão beta** e continuará recebendo atualizações com melhorias e novas funcionalidades.
 
-## 📈 Próximas Melhorias:
-- Refinamento da automação de escalas.
-- Implementação de novos recursos para gerenciamento de equipes.
-- Melhorias na experiência do usuário com novas funcionalidades.
+## 🌐 Acesse o sistema:
+Confira o sistema em funcionamento no site: [Escalix](https://escalix.com.br)
 
 ---
 
