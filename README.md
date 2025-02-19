@@ -25,4 +25,4 @@ Confira o sistema em funcionamento no site: [Escalix](https://escalix.com.br)
 
 ---
 
-Este projeto é privado e faz parte do meu **portfólio de desenvolvimento**. Para mais informações ou oportunidades, sinta-se à vontade para entrar em contato comigo.
+Para mais informações ou oportunidades, sinta-se à vontade para entrar em contato comigo.
